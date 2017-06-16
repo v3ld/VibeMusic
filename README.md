@@ -1,2 +1,2 @@
 # VibeMusic
-Repository for the VibeMusic Website
+Main Repository for the VibeMusic Website
